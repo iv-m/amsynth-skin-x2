@@ -27,3 +27,7 @@ Now, you can checkout the original images and then upscale them using (edited) p
 ```bash
 git checkout original-images -- x2/*.png; ./scripts/scale-images.sh x2
 ```
+
+# License
+
+GPLv2+.
